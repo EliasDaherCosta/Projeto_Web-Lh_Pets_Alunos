@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JYGuoPNsnBLm5R/FM1Dd56daArYgZH0wf98Kt3EQWsgzif64+BzMZlqg88Mk7VLyqK3Mw/3rFI2Io15cPXeYEQ==",
+  "dgSpecHash": "JdSwUn7OMxxICjg4hiNh/iz70YV+TTz0aHV0i6JTOdN+Mp7uW5wxOoVjinqfS6s2FV+lEGHKPni6u4+h5Ph/Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ELIAS\\Desktop\\projeto\\projeto.csproj",
+  "projectFilePath": "C:\\Users\\ELIAS\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\projeto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ELIAS\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ELIAS\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

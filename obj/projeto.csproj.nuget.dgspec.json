@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELIAS\\Desktop\\projeto\\projeto.csproj": {}
+    "C:\\Users\\ELIAS\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELIAS\\Desktop\\projeto\\projeto.csproj": {
+    "C:\\Users\\ELIAS\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELIAS\\Desktop\\projeto\\projeto.csproj",
+        "projectUniqueName": "C:\\Users\\ELIAS\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "C:\\Users\\ELIAS\\Desktop\\projeto\\projeto.csproj",
+        "projectPath": "C:\\Users\\ELIAS\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\projeto.csproj",
         "packagesPath": "C:\\Users\\ELIAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELIAS\\Desktop\\projeto\\obj\\",
+        "outputPath": "C:\\Users\\ELIAS\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELIAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
