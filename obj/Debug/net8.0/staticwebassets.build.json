@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "2ma1EK3Kpv4pvx54Tt+O3nzZv84JSnX45MuPiCwO13M=",
+  "Source": "projeto",
+  "BasePath": "_content/projeto",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projeto\\wwwroot",
+      "Source": "projeto",
+      "ContentRoot": "C:\\Users\\ELIAS\\Desktop\\projeto\\wwwroot\\",
+      "BasePath": "_content/projeto",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ELIAS\\Desktop\\projeto\\wwwroot\\index.html",
+      "SourceId": "projeto",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ELIAS\\Desktop\\projeto\\wwwroot\\",
+      "BasePath": "_content/projeto",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
